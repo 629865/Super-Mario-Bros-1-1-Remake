@@ -314,7 +314,7 @@ public class Ecosystem extends JPanel {
             wallCollisions(goomba);
             Koopa koopa = new Koopa();
             koopa.setX((int) + 500);
-            koopa.setY((int) + 1000);
+            koopa.setY((int) + 825);
             koopas.add (koopa);
             wallCollisions(koopa);
 
